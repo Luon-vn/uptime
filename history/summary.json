@@ -4,17 +4,19 @@
     "url": "https://xn--lun-lna.vn",
     "icon": "https://icons.duckduckgo.com/ip3/xn--lun-lna.vn.ico",
     "slug": "luon-vn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 435,
-    "timeWeek": 414,
-    "timeMonth": 384,
-    "timeYear": 384,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 383,
+    "timeDay": 414,
+    "timeWeek": 409,
+    "timeMonth": 383,
+    "timeYear": 383,
+    "dailyMinutesDown": {
+      "2025-11-18": 8
+    }
   }
 ]
