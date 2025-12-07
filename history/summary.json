@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--lun-lna.vn.ico",
     "slug": "luon-vn",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.72%",
-    "time": 350,
-    "timeDay": 322,
-    "timeWeek": 347,
-    "timeMonth": 344,
-    "timeYear": 350,
+    "uptimeYear": "99.73%",
+    "time": 348,
+    "timeDay": 273,
+    "timeWeek": 333,
+    "timeMonth": 347,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2025-11-18": 132
     }
